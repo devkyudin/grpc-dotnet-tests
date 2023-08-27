@@ -1,5 +1,5 @@
 syntax="proto3";
-
+package grpccommonsandbox.commonprotos.customtypes;
 option csharp_namespace="GrpcCommonSandbox.CommonProtos.CustomTypes";
 
 // Example: 12345.6789 -> { units = 12345, nanos = 678900000 }
