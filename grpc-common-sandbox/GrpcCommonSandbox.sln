@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D514F833-D1E2-4419-A2C0-EFA243915989}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{FC24B331-21A5-4AF0-B21C-D00205AE2724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcCommonSandbox.CommonProtos", "src\GrpcCommonSandbox.CommonProtos\GrpcCommonSandbox.CommonProtos.csproj", "{8726224B-252E-44A6-A3AE-56B45FA26E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE35A3C-D664-446B-8AAD-B17A78DEA210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE35A3C-D664-446B-8AAD-B17A78DEA210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE35A3C-D664-446B-8AAD-B17A78DEA210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE35A3C-D664-446B-8AAD-B17A78DEA210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8726224B-252E-44A6-A3AE-56B45FA26E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8726224B-252E-44A6-A3AE-56B45FA26E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8726224B-252E-44A6-A3AE-56B45FA26E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8726224B-252E-44A6-A3AE-56B45FA26E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8726224B-252E-44A6-A3AE-56B45FA26E78} = {D514F833-D1E2-4419-A2C0-EFA243915989}
+	EndGlobalSection
+EndGlobal
